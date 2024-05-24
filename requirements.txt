@@ -1,3 +1,4 @@
 transformers
 happytransformer
 language_tool_python
+nltk
